@@ -43,3 +43,5 @@ Have you ever struggled to find or explain a movie to someone?  What about figur
 * [Link to Repository](https://github.com/TeamJeanGrey/ultimate-movie-search)
 
 * [Link to Live Site](https://teamjeangrey.github.io/ultimate-movie-search/)
+
+* [Link to slides] (https://docs.google.com/presentation/d/1vzevCABMrFPpJM0EiyelOEWQjbesFss2lwACnm7Kj7A/edit?usp=sharing)
